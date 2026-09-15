@@ -1,8 +1,12 @@
 ## Eu sou a Rayan Ezequiel :brazil:
 
 Estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI BAHIA (Dendezeiros, Salvador), com bolsa integral, conclusão prevista para 2028. Tenho interesse de longa data em hardware de PC e venho construindo, de forma independente, uma base sólida em lógica de programação, estruturas de dados e desenvolvimento de sistemas.  Meu objetivo é seguir para uma faculdade federal de Ciência da Computação e, no caminho, prestar serviços de desenvolvimento de sites e sistemas.  Aberto a conexões na área de tecnologia, hardware e desenvolvimento.
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rayan-ezequiel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rayan-ezequiel&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rayan-ezequiel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=rayan-ezequiel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayan-ezequiel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rayan-ezequiel&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" /> </p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
