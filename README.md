@@ -15,7 +15,7 @@ Estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI BAHIA (Dende
 ---
 
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
+<img src="https://ssr-contributions-svg.vercel.app/_/rayan-ezequiel?chart=calendar&format=svg&theme=dark" width="100%" alt="Contribution Calendar" />
 ---
 
 <a href="https://www.instagram.com/rayan.ezequiel?stkn=MWg3emN6YTRjMmQ0aA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
