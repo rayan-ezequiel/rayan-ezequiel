@@ -1,4 +1,4 @@
-## Eu sou a Rayan Ezequiel
+## Eu sou a Rayan Ezequiel :brazil:
 
 Estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI BAHIA (Dendezeiros, Salvador), com bolsa integral, conclusão prevista para 2028. Tenho interesse de longa data em hardware de PC e venho construindo, de forma independente, uma base sólida em lógica de programação, estruturas de dados e desenvolvimento de sistemas.  Meu objetivo é seguir para uma faculdade federal de Ciência da Computação e, no caminho, prestar serviços de desenvolvimento de sites e sistemas.  Aberto a conexões na área de tecnologia, hardware e desenvolvimento.
 
