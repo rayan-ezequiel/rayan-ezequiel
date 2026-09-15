@@ -9,10 +9,10 @@ Estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI BAHIA (Dende
 ---
 
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=rayan-ezequiel&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=rayan-ezequiel&theme=midnight-purple&hide_border=true&locale=pt-br" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=rayan-ezequiel&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=rayan-ezequiel&hide_border=true&locale=pt-br&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rayan-ezequiel&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact&locale=pt-br" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rayan-ezequiel&hide_border=true&include_all_commits=true&count_private=true&layout=compact&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=ffffff" />
 
 ---
 
