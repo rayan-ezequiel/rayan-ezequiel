@@ -2,9 +2,9 @@
 
 Estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI BAHIA (Dendezeiros, Salvador), com bolsa integral, conclusão prevista para 2028. Tenho interesse de longa data em hardware de PC e venho construindo, de forma independente, uma base sólida em lógica de programação, estruturas de dados e desenvolvimento de sistemas.  Meu objetivo é seguir para uma faculdade federal de Ciência da Computação e, no caminho, prestar serviços de desenvolvimento de sites e sistemas.  Aberto a conexões na área de tecnologia, hardware e desenvolvimento.
 
-![](https://github-readme-stats.shion.dev/api?username=rayan-ezequiel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rayan-ezequiel&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rayan-ezequiel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=rayan-ezequiel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br)<br/>
+![](https://streak-stats.demolab.com/?user=rayan-ezequiel&theme=midnight-purple&hide_border=false&locale=pt-br)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rayan-ezequiel&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=pt-br)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
