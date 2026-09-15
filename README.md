@@ -6,6 +6,7 @@ Estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI BAHIA (Dende
 
 ---
 
+# 📊 GitHub Stats
 
 <img width="49%" src="https://github-readme-stats.shion.dev/api?username=rayan-ezequiel&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=rayan-ezequiel&theme=midnight-purple&hide_border=true&locale=pt-br" />
@@ -16,6 +17,7 @@ Estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI BAHIA (Dende
 
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
+---
 
 <a href="https://www.instagram.com/rayan.ezequiel?stkn=MWg3emN6YTRjMmQ0aA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:rayan.ezequiel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
