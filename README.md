@@ -7,11 +7,24 @@
 Estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI BAHIA (Dendezeiros, Salvador), com bolsa integral, conclusão prevista para 2028. Tenho interesse de longa data em hardware de PC e venho construindo, de forma independente, uma base sólida em lógica de programação, estruturas de dados e desenvolvimento de sistemas. Meu objetivo é seguir para uma faculdade federal de Ciência da Computação e, no caminho, prestar serviços de desenvolvimento de sites e sistemas. Aberto a conexões na área de tecnologia, hardware e desenvolvimento.
 
 ---
+<div align="center">
 
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rayan-ezequiel&show_icons=true&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayan-ezequiel&layout=compact&hide_border=true&count_private=true&langs_count=8&cache_seconds=86400&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=ffffff" />
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=rayan-ezequiel&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=rayan-ezequiel&hide_border=true&locale=pt-br&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
-<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rayan-ezequiel&hide_border=true&include_all_commits=true&count_private=true&layout=compact&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=rayan-ezequiel&hide_border=true&locale=pt_BR&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayan-ezequiel&hide_border=true&area=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&title_color=ffffff" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rayan-ezequiel&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
+</div>
 
 ---
 
