@@ -1,39 +1,12 @@
-<div align="center">
-
-  <img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/e4de2d32-2818-4afc-863c-02c603973295" />
-
-  ## Eu sou o Rayan Ezequiel
+<div align="center"> <img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/e4de2d32-2818-4afc-863c-02c603973295" />
+Eu sou o Rayan Ezequiel
 
 Estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI BAHIA (Dendezeiros, Salvador), com bolsa integral, conclusão prevista para 2028. Tenho interesse de longa data em hardware de PC e venho construindo, de forma independente, uma base sólida em lógica de programação, estruturas de dados e desenvolvimento de sistemas. Meu objetivo é seguir para uma faculdade federal de Ciência da Computação e, no caminho, prestar serviços de desenvolvimento de sites e sistemas. Aberto a conexões na área de tecnologia, hardware e desenvolvimento.
 
----
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rayan-ezequiel&show_icons=true&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayan-ezequiel&layout=compact&hide_border=true&count_private=true&langs_count=8&cache_seconds=86400&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=ffffff" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=rayan-ezequiel&hide_border=true&locale=pt_BR&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayan-ezequiel&hide_border=true&area=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&title_color=ffffff" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rayan-ezequiel&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
-</div>
-
----
-
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rayan-ezequiel&show_icons=true&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" /> <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayan-ezequiel&layout=compact&hide_border=true&count_private=true&langs_count=8&cache_seconds=86400&locale=pt-br&bg_color=000000&title_color=ffffff&text_color=ffffff" /> <br/> <img src="https://streak-stats.demolab.com/?user=rayan-ezequiel&hide_border=true&locale=pt_BR&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" /> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayan-ezequiel&hide_border=true&area=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&title_color=ffffff" />
+<img src="https://github-profile-trophy.vercel.app/?username=rayan-ezequiel&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
----
-
-<a href="https://www.instagram.com/rayan.ezequiel?stkn=MWg3emN6YTRjMmQ0aA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:rayan.ezequiel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/rayan-ezequiel-398649429/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge"></a>
+<a href="https://www.instagram.com/rayan.ezequiel?stkn=MWg3emN6YTRjMmQ0aA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="mailto:rayan.ezequiel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/rayan-ezequiel-398649429/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge"></a>
 
 </div>
