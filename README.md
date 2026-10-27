@@ -8,7 +8,7 @@ Estudante do curso Técnico em Desenvolvimento de Sistemas no SENAI BAHIA (Dende
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=rayan-ezequiel&hide_border=true&locale=pt_BR&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" />
+<img src="https://streak-stats.demolab.com/?user=rayan-ezequiel&hide_border=true&locale=pt_BR&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&v=1" />
 
 <br/>
 
